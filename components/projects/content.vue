@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-full bg-cover flex flex-row gap-9 mb-10 mx-20 mt-1">
+    <div class="max-w-full bg-cover flex flex-row gap-9 mb-10 mx-5 md:mx-20 mt-1">
         <div>
             <div >
                 <NuxtLink to="/">
@@ -9,13 +9,13 @@
                     </button>
                 </NuxtLink>
             </div>
-            <div class="flex flex-row">
+            <div class="flex flex-col md:flex-row">
                 <div>
                     <div>
                         <h1 class="normal-case text-5xl font-mono text-black mb-8">{{ project_info['title'] }}</h1>
                     </div>
-                    <div class="flex items-center justify-center">
-                        <img :src="project_info['img_url']" :alt="project_info['title']" class="m-w-max h-full mb-10">
+                    <div class="flex items-center justify-center ">
+                        <img :src="project_info['img_url']" :alt="project_info['title']" class="w-8/12 md:m-w-max h-full mb-10">
                     </div>
                     <div class="max-w-3xl mx-10">
                         <p class="text-wrap my-3 mb-5 text-xl leading-8">{{ project_info['short_description1'] }}</p>

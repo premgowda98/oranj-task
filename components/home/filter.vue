@@ -1,6 +1,6 @@
 <template>
 <div class="m-10 w-screen max-w-screen-md">
-  <div class="flex flex-col">
+  <div class="flex flex-col mx-10 lg:mx-0">
     <div class="rounded-xl border border-gray-200 bg-white p-6 shadow-lg">
       <form class="" @submit.prevent>
 

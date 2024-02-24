@@ -1,6 +1,6 @@
 <template>
-    <div v-if="card_details.length>0" class="flex flex-row justify-center my-8 mb-16">
-        <CheckoutOrders style="width:400px;" :card_details="card_details" :discount="discount" :sub_total="subtotal" :total_price="total_price"/>
+    <div v-if="card_details.length>0" class="flex flex-col md:flex-row justify-center my-8 mb-16">
+        <CheckoutOrders style="width:420px;" :card_details="card_details" :discount="discount" :sub_total="subtotal" :total_price="total_price"/>
         <CheckoutPayments :total_price="total_price"/>
     </div>
     <div v-else class="flex flex-col mx-auto text-center gap-10 items-center p-40">

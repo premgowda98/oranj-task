@@ -1,5 +1,5 @@
 <template>
-    <div class="border-2 rounded-lg border-slate-300 shadow-xl h-max p-5 w-96 mt-16">
+    <div class="border-2 rounded-lg border-slate-300 shadow-xl h-max p-5 w-92 md:w-96 mt-16">
         <div class="flex flex-row justify-between my-6">
             <p class="font-medium text-lg">Pricing</p>
             <p class="font-medium text-lg">${{ price }}/tCO22</p>

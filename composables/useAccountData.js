@@ -1,1 +1,3 @@
-export const useAccountData = ()=> useState('useAccountData', ()=>[])
+import { useStorage } from '@vueuse/core'
+
+export const useAccountData = ()=> useStorage('useAccountData', ()=>[])

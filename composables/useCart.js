@@ -1,1 +1,3 @@
-export const useCart = ()=> useState('cartInfo', ()=>[])
+import { useStorage } from '@vueuse/core'
+
+export const useCart = ()=> useStorage('cartInfo', ()=>[])

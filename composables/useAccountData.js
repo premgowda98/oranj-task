@@ -1,0 +1,1 @@
+export const useAccountData = ()=> useState('useAccountData', ()=>[])

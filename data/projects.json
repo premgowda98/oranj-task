@@ -1,0 +1,338 @@
+[
+        {
+        "slug": "solar-project-india",
+        "img_url": "https://img.freepik.com/free-photo/photovoltaic-solar-power-panel-field-green-clean-alternative-power-energy-concept-ai-generative_123827-23424.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1708560000&semt=ais",
+        "price_per_carbon_unit": 150,
+        "min_quantity": 250,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "India",
+        "type": "Solar Project"
+        },
+        {
+        "slug": "hydro-project-bangladesh",
+        "img_url": "https://t3.ftcdn.net/jpg/04/37/50/08/360_F_437500857_qhxmpinxrr2lHoeGIcpTaG9R39AwECvu.jpg",
+        "price_per_carbon_unit": 180,
+        "min_quantity": 280,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "Bangladesh",
+        "type": "Hydro Project"
+        },
+        {
+        "slug": "wind-farm-usa",
+        "img_url": "https://images.pexels.com/photos/414837/pexels-photo-414837.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price_per_carbon_unit": 200,
+        "min_quantity": 260,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "USA",
+        "type": "Wind Project"
+        },
+        {
+        "slug": "hydro-project-russia",
+        "img_url": "https://insightsonindia.com/wp-content/uploads/2014/10/103014_1702_IndiasEnerg1.jpg",
+        "price_per_carbon_unit": 160,
+        "min_quantity": 270,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "Russia",
+        "type": "Hydro Project"
+        },
+        {
+        "slug": "waste-management-brazill",
+        "img_url": "https://www.smsmpitr.edu.in/wp-content/uploads/2020/08/WASTE-MANAGEMENT.jpg",
+        "price_per_carbon_unit": 220,
+        "min_quantity": 200,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "Brazill",
+        "type": "Waste Project"
+        },
+        {
+        "slug": "solar-initiative-india",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qgFb7NHOD1EFJlJ3NH1f-SHaed6HQMcFzZnILo23NFTHicqziVVCW82c4v-hUFMci1Y&usqp=CAU",
+        "price_per_carbon_unit": 130,
+        "min_quantity": 270,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "India",
+        "type": "Solar Project"
+        },
+        {
+        "slug": "hydro-power-bangladesh",
+        "img_url": "https://iea.imgix.net/acded788-87f6-4092-bb2a-9ec1ed864d9f/shutterstock_475746370.jpg?auto=compress%2Cformat&fit=min&h=630&q=80&rect=0%2C396%2C3800%2C2137&w=1200",
+        "price_per_carbon_unit": 190,
+        "min_quantity": 250,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "Bangladesh",
+        "type": "Hydro Project"
+        },
+        {
+        "slug": "wind-energy-usa",
+        "img_url": "https://media.istockphoto.com/id/1200031421/photo/alternative-energy-wind-turbine-green-landscape-at-sunset.jpg?s=612x612&w=0&k=20&c=3_Z1Zg3quG90atI02TFBNwZBYlpeMGhfX1VPaUsMJKE=",
+        "price_per_carbon_unit": 210,
+        "min_quantity": 290,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "USA",
+        "type": "Wind Project"
+        },
+        {
+        "slug": "hydro-electric-russia",
+        "img_url": "https://i.pinimg.com/1200x/bd/27/1f/bd271f465c8a74a9ec40a4c43f1db327.jpg",
+        "price_per_carbon_unit": 170,
+        "min_quantity": 260,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "Russia",
+        "type": "Hydro Project"
+        },
+        {
+        "slug": "waste-reduction-brazill",
+        "img_url": "https://www.shaktiplasticinds.com/wp-content/uploads/2022/12/Add-a-heading-29.png",
+        "price_per_carbon_unit": 240,
+        "min_quantity": 210,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "Brazill",
+        "type": "Waste Project"
+        },
+        {
+        "slug": "solar-power-india",
+        "img_url": "https://t3.ftcdn.net/jpg/02/34/26/58/240_F_234265829_2TNBb3hbvAQKk6QeDimOa8aQldh4LimD.jpg",
+        "price_per_carbon_unit": 140,
+        "min_quantity": 280,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "India",
+        "type": "Solar Project"
+        },
+        {
+        "slug": "hydro-energy-bangladesh",
+        "img_url": "https://t3.ftcdn.net/jpg/04/37/50/08/360_F_437500857_qhxmpinxrr2lHoeGIcpTaG9R39AwECvu.jpg",
+        "price_per_carbon_unit": 200,
+        "min_quantity": 300,
+        "short_description1": "Climate change stands as one of the most critical challenges of our time, impacting ecosystems, communities, and economies worldwide. In response to this global crisis, Environmental, Social, and Governance (ESG) considerations have gained prominence. ESG principles are a set of criteria that companies are increasingly encouraged to adopt to ensure sustainable practices and responsible business conduct. Within the realm of ESG, the focus on renewable energy sources, such as solar power, has become a pivotal component in mitigating the effects of climate change.",
+        "short_description2": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth. Human activities, particularly the burning of fossil fuels and deforestation, have significantly increased the concentration of greenhouse gases in the atmosphere. This enhanced greenhouse effect traps heat, leading to a rise in global temperatures, extreme weather events, rising sea levels, and disruptions in ecosystems.",
+        "points": [
+                {"title": "Environmental Responsibility",
+                "subpoints": ["ESG places a strong emphasis on environmental considerations, encouraging companies to reduce their carbon footprint and adopt sustainable practices.",
+                                "Companies are evaluated based on their efforts to minimize resource depletion, manage waste responsibly, and decrease greenhouse gas emissions."]        
+                },
+                {"title": "Reduced Dependence on Fossil Fuels",
+                "subpoints": ["By promoting solar power, ESG initiatives aim to reduce the world's dependence on fossil fuels, mitigating the impact of climate change.",
+                                "Transitioning to solar energy helps decrease reliance on non-renewable resources and contributes to a more sustainable energy landscape"]        
+                },
+                {"title": "Governance Standards",
+                "subpoints": ["Good governance practices are integral to ESG. This involves transparent and ethical decision-making processes at the corporate level.",
+                                "Companies with strong governance structures are better equipped to address climate-related risks and implement sustainable strategies."]        
+                },
+                {"title": "Economic Advantages",
+                "subpoints": ["Solar power investments not only align with ESG goals but also offer economic benefits.",
+                                "The solar industry has seen significant growth, creating jobs and stimulating economic development. As technology advances, the cost of solar power continues to decrease, making it an increasingly viable and cost-effective energy solution."]        
+                }
+        ],
+        "country": "Bangladesh",
+        "type": "Hydro Project"
+        }
+]

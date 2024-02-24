@@ -1,0 +1,4 @@
+<template>
+    <HomeBanner />
+    <HomeProjects />
+</template>

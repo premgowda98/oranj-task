@@ -12,7 +12,7 @@
             <div class="flex flex-col md:flex-row">
                 <div>
                     <div>
-                        <h1 class="normal-case text-5xl font-mono text-black mb-8">{{ project_info['title'] }}</h1>
+                        <h1 class="normal-case text-center text-5xl font-mono text-black mb-8">{{ project_info['title'] }}</h1>
                     </div>
                     <div class="flex items-center justify-center ">
                         <img :src="project_info['img_url']" :alt="project_info['title']" class="w-8/12 md:m-w-max h-full mb-10">
